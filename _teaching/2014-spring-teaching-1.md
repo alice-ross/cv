@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Tutor, Professional Issues"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://opencourse.inf.ed.ac.uk/pi/
+venue: "Department of Informatics, University of Edinburgh"
+date: 2025-09-25
+location: "Edinburgh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Tutor and marker for Professional Issues, an ethics course for third-year Informatics undergraduates, Sept-Dec 2025.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

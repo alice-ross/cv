@@ -10,6 +10,6 @@ citation: 'Alice Ross, Martin Corley and Catherine Lai. (2024). &apos;Is there a
 ---
 In this paper, we aim to describe the relationship between synthesised voices&apos; perceived human-likeness and pleasantness and seek evidence of auditory uncanny valley effects (UVE) in listeners&apos; evaluations.
 
-[Download paper here](https://www.isca-archive.org/speechprosody_2024/ross24_speechprosody.htm)
+[Download paper here](https://www.isca-archive.org/speechprosody_2024/ross24_speechprosody.html)
 
 Recommended citation: Alice Ross, Martin Corley and Catherine Lai. (2024). 'Is there an uncanny valley for speech? Investigating listeners' evaluations of realistic TTS voices.' <i>Speech Prosody 2024</i>, 1115-1119.

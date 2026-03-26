@@ -58,6 +58,9 @@ Prize for best poster (£50)
 
 Other professional activities
 ======
+Copenhagen Winter School in Sociolinguistics, March 2026\
+Department of Nordic Studies and Linguistics, University of Copenhagen, Denmark
+
 The 4th Summer Program for Yiddish Language and Literature in Berlin, August 2024\
 Maison de la culture yiddish - Bibliothèque Medem, hosted by the Osteuropa-Institut at Freie Universität Berlin
 

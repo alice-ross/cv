@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /chi_2026_audio
 title: "The Sound of Silencing: audio samples (CHI 2026)"
 author_profile: true
 redirect_from: 

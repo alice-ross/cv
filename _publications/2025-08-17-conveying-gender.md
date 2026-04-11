@@ -10,7 +10,7 @@ citation: 'Alice Ross, Cliodhna Hughes, Eddie L. Ungless and Catherine Lai. (202
 ---
 Focusing on the understudied population of trans men, we present one of the first studies on style shift in trans speakers, considering the phonetic features of trans men&apos;s speech in different contexts, and their own beliefs about vocal cues to gender perception.
 
-Check out the [poster](https://alice-ross.github.io/files/conveying_gender_poster.pdf)!
+[Check out the poster](https://alice-ross.github.io/files/conveying_gender_poster.pdf)!
 
 [Download paper here](https://www.isca-archive.org/interspeech_2025/ross25_interspeech.html)
 

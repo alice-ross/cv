@@ -44,6 +44,8 @@ Teaching
 
 Posters
 ======
+* [*Kind is the Opposite of Competent: Phonetic variation in English TTS voices*](https://alice-ross.github.io/files/BAAP_kind_competent_poster.pdf), Colloquium of the
+British Association of Academic Phoneticians, April 2026
 * [*Conveying gender through speech: insights from trans men*](/files/conveying_gender_poster.pdf), UKRI NLP and Designing Responsible NLP CDT Joint Summit, June 2025
 * [*Ideology, discrimination and bias in synthesised voice design*](/files/ideology_iscaworkshop.pdf), ISCA/ITG Workshop on Diversity in Large Speech and Language Models, February 2025
 * [*Is there an uncanny valley for speech? Investigating listeners’ evaluations of realistic synthesised voices*](/files/uncanny_speechprosody.pdf), Speech Prosody, July 2024
@@ -72,11 +74,14 @@ Maison de la culture yiddish - Bibliothèque Medem, hosted by the Osteuropa-Inst
   
 Other publications
 ======
-* 2024, *Constellations of Care: Anarcha-Feminism in Practice*, anthology, ed. C. Milstein\
+* 2025, [Centre for Technomoral Futures](https://www.technomoralfutures.uk/) blog\
+A. Ross, [*Text-to-speech voices as human remains*](https://www.technomoralfutures.uk/news-database/text-to-speech-voices-as-human-remains)
+
+* 2024, [*Constellations of Care: Anarcha-Feminism in Practice*](https://www.plutobooks.com/product/constellations-of-care/), anthology, ed. C. Milstein\
 M. Holleb and A. Ross, *Pink Peacock: Lavishly Accessible*
 
 * 2022, *Radical Jewish Calendar 5783*, artwork\
 A. Ross, *Always Carry A Book*
 
-* 2020, *There Is Nothing So Whole as a Broken Heart*, anthology, ed. C. Milstein\
+* 2020, [*There Is Nothing So Whole as a Broken Heart*](https://www.akpress.org/thereisnothingsowhole.html), anthology, ed. C. Milstein\
 A. Ross, *And You Shall Love*

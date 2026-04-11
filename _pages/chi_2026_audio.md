@@ -8,7 +8,7 @@ redirect_from:
 
 These samples were generated using [ElevenLabs TTSv2](https://elevenlabs.io/app/voice-lab?action=create&creationType=voiceDesign#content) on 31/03/25. The prompts took the form ‘**A voice that sounds [ADJECTIVE]**’ and they were entered one at a time, in randomised order. Each prompt was run three separate times, resulting in three different voices (and sentences) for each adjective. Adjectives are listed here alphabetically within the sets they belong to: **status** and **solidarity**.
 
-For a quick illustrative example, you can listen to one of the model's outputs for [a professional voice](https://github.com/user-attachments/assets/68ff36cf-6ea2-4f89-87a7-36419573e0fb) and [a friendly voice](https://github.com/user-attachments/assets/afbcbc8c-617a-4c64-a1a9-d2142dd8ddb4). What differences do you notice?
+For a quick illustrative example, try listening to one of the model's outputs for [a professional voice](https://github.com/user-attachments/assets/68ff36cf-6ea2-4f89-87a7-36419573e0fb) and [a friendly voice](https://github.com/user-attachments/assets/afbcbc8c-617a-4c64-a1a9-d2142dd8ddb4). What differences do you notice?
 
 Please note that these files include the full sentences as recorded, and as used for our acoustic analysis. For the perception experiment reported in our [CHI EA](https://alice-ross.github.io/publication/2026-04-13-sound-of-silencing), these were cut down to much shorter segments of around 1 second each in order to avoid semantic effects and listener fatigue.
 

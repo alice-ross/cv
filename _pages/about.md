@@ -13,4 +13,4 @@ redirect_from:
 
 I am working towards a PhD, supervised by [Dr. Catherine Lai](https://homepages.inf.ed.ac.uk/clai/) and [Prof. Lauren Hall-Lew](https://laurenhall-lew.weebly.com/), at the University of Edinburgh. I approach speech technology and its applications from a feminist/anarchist angle. Autonomy, accessibility and sustainability are key values, and I'm interested in what we stand to gain and lose in adopting new technologies: Who is empowered? Who is disenfranchised?
 
-You can read [more about how I got here](https://alice-ross.github.io/long_bio/) if you like.
+You can read [more about how I got here](https://alice-ross.github.io/bio/) if you like.

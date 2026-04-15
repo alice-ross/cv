@@ -14,4 +14,4 @@ Check out the [poster](https://alice-ross.github.io/files/CHI_TTS_silencing_post
 
 Check out the [voices](https://alice-ross.github.io/chi_2026_audio/)!
 
-Recommended citation: Alice Ross, Nina Markl, Catherine Lai, and Lauren A. Hall-Lew. 2026. The Sound of Silencing: Identities and Ideologies in Commercial Text-To-Speech. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26). Association for Computing Machinery, New York, NY, USA, Article 665, 1–6. https://doi.org/10.1145/3772363.3798657
+Recommended citation: Alice Ross, Nina Markl, Catherine Lai, and Lauren A. Hall-Lew. 2026. The Sound of Silencing: Identities and Ideologies in Commercial Text-To-Speech. In _Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems_ (CHI EA '26). Association for Computing Machinery, New York, NY, USA, Article 665, 1–6. https://doi.org/10.1145/3772363.3798657

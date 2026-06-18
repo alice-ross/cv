@@ -52,6 +52,9 @@ British Association of Academic Phoneticians, April 2026
 
 Prizes, grants and awards
 ======
+* 2025 - 2026, ***PhD Fellowship*, Centre for Technomoral Futures, University of Edinburgh**\
+Research support allowance of £1000/year
+
 * 2023 - 2027, ***PhD Funding*, UKRI Centre for Doctoral Training in Natural Language Processing, University of Edinburgh**\
 Full scholarship covering tuition fees, programme costs and stipend
 

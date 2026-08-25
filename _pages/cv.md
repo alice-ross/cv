@@ -64,8 +64,7 @@ Prize for best poster (£50)
 
 Other professional activities
 ======
-Lavender Languages and Linguistics 32, September 2026\
-The University of Edinburgh, UK\
+[Lavender Languages and Linguistics 32](https://lavlang32.ppls.ed.ac.uk/), University of Edinburgh, September 2026\
 Conference organising committee, scientific committee, session chair
 
 Copenhagen Winter School in Sociolinguistics, March 2026\

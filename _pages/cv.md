@@ -44,6 +44,7 @@ Teaching
 
 Posters
 ======
+* [*The Sound of Silencing: Identities and Ideologies in Commercial Text-To-Speech*](https://alice-ross.github.io/files/CHI_TTS_silencing_poster.pdf), ACM CHI Conference on Human Factors in Computing Systems (CHI EA 26), April 2026
 * [*Kind is the Opposite of Competent: Phonetic variation in English TTS voices*](https://alice-ross.github.io/files/BAAP_kind_competent_poster.pdf), Colloquium of the
 British Association of Academic Phoneticians, April 2026
 * [*Conveying gender through speech: insights from trans men*](/files/conveying_gender_poster.pdf), UKRI NLP and Designing Responsible NLP CDT Joint Summit, June 2025
@@ -63,6 +64,10 @@ Prize for best poster (£50)
 
 Other professional activities
 ======
+Lavender Languages and Linguistics 32, September 2026\
+The University of Edinburgh, UK\
+Conference organising committee, scientific committee, session chair
+
 Copenhagen Winter School in Sociolinguistics, March 2026\
 Department of Nordic Studies and Linguistics, University of Copenhagen, Denmark
 

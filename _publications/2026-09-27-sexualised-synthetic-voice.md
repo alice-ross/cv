@@ -10,5 +10,6 @@ citation: 'Alice Ross, Ariadna Sanchez, Elin Kanhov, Catherine Lai, and Éva Sz�
 ---
 Examining sexualised AI-generated English-speaking voices in a popular commercial platform from a Feminist HCI perspective, we find qualitative and quantitative differences in a diverse group of listeners&apos; reactions to male and female-coded voices, showing how social biases are reinforced through the voices&apos; conformity to a clichéd, heteronormative vocal attractiveness schema.
 
+Check out the [voices](https://ariadnasc.github.io/synth-personas/)!
 
 Recommended citation: Alice Ross, Ariadna Sanchez, Elin Kanhov, Catherine Lai, and Éva Székely. 2026. Sexualised synthetic personas encode and amplify gendered power asymmetries through voice. (accepted) <i>Interspeech 2026</i>
